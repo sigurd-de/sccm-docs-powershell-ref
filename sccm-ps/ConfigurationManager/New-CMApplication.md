@@ -142,6 +142,9 @@ Accept pipeline input: False
 Accept wildcard characters: False
 ```
 
+> [!Note]
+> The icon size is limited to 250 x 250 px. Larger icon files will create an error during the execution.
+
 ### -IsFeatured
 Indicates whether the application displays as a featured app and is highlighted in the company portal.
 
